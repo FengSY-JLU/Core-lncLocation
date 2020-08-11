@@ -1,0 +1,24 @@
+NR_002599.1|@2@|Homo|sapiens|small|nucleolar|RNA|host|gene|6|(SNHG6),|long|non-coding|RNA:
+	cytoplasm:0.9352382794084018	exosome:0.010298475223688985	nucleus:0.011142939976654156	ribosome:0.04332030539125525
+	predicted results:cytoplasm
+NR_002212.4|@2@|Homo|sapiens|nudix|hydrolase|4|pseudogene|1|(NUDT4P1),|non-coding|RNA:
+	cytoplasm:0.0002238769743385443	exosome:0.05247488321958927	nucleus:4.510143225474499e-06	ribosome:0.9472967296628464
+	predicted results:ribosome
+NR_024037.1|@1@|Homo|sapiens|rhabdomyosarcoma|2|associated|transcript|(non-protein|coding)|(RMST),|long|non-coding|RNA:
+	cytoplasm:0.004434985473439372	exosome:0.0866265726853014	nucleus:0.6352971323224995	ribosome:0.27364130951875965
+	predicted results:nucleus
+NR_001549.1|@4@|Homo|sapiens|testis-specific|transcript,|Y-linked|19|(non-protein|coding)|(TTTY19),|long|non-coding|RNA:
+	cytoplasm:6.487975716573221e-06	exosome:0.9989039489182454	nucleus:3.1513322849992855e-05	ribosome:0.0010580497831880018
+	predicted results:exosome
+NR_001552.1|@4@|Homo|sapiens|testis-specific|transcript,|Y-linked|16|(non-protein|coding)|(TTTY16),|long|non-coding|RNA:
+	cytoplasm:5.966228903817237e-06	exosome:0.9990414355619822	nucleus:4.667710201421537e-05	ribosome:0.000905921107099663
+	predicted results:exosome
+NR_015360.1|@3@|Homo|sapiens|long|intergenic|non-protein|coding|RNA|1184|(LINC01184),|long|non-coding|RNA:
+	cytoplasm:2.3724186018861115e-14	exosome:4.25371358976134e-14	nucleus:3.810590778491876e-14	ribosome:0.9999999999998956
+	predicted results:ribosome
+NR_026761.2|@3@|Homo|sapiens|long|intergenic|non-protein|coding|RNA|467|(LINC00467),|long|non-coding|RNA:
+	cytoplasm:5.7598733164534953e-11	exosome:9.211184396104762e-11	nucleus:3.882958736542175e-11	ribosome:0.9999999998114598
+	predicted results:ribosome
+NR_015433.1|@3@|Homo|sapiens|Morf4|family|associated|protein|1|like|1|pseudogene|(LOC93622),|non-coding|RNA:
+	cytoplasm:1.0111236857172325e-12	exosome:2.1939725752395363e-12	nucleus:1.1835012828444905e-12	ribosome:0.9999999999956114
+	predicted results:ribosome
